@@ -1,5 +1,5 @@
 # HiLo-Betting-Game — Documentation
-Programmed with Java for a culminating project way back when
+Programmed with Java for a culminating project that I did way back when
 
 # Plan/Algorithm
 -Create a game where it prints out a number and asks user to input whether the next number that will be printed will be higher, lower or the same
